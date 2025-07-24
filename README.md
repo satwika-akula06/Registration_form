@@ -4,7 +4,8 @@ A simple and responsive registration form built with HTML and CSS.
 
 ## 📸 Preview
 
-![Registration Form Preview](./preview.png)
+![Registration Form Preview](preview1.png.png)
+![Registration Form Preview](preview2.png.png)
 
 ## 📁 Files Included
 
